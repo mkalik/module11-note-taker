@@ -6,6 +6,8 @@ a note taking application that allows for storage and deletion of notes
 
 ![heres a pic](./images/note-taker-ss.png?raw=true "application photo")
 
+[heroku link](https://mkalik-note-taker.herokuapp.com/notes)
+
 ## 1.Installation:
 
 (this application requires node.js)
