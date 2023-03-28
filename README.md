@@ -4,7 +4,7 @@
 
 a note taking application that allows for storage and deletion of notes
 
-![heres a pic]('./images/note-taker-ss.png')
+![heres a pic](./images/note-taker-ss.png?raw=true "application photo")
 
 ## 1.Installation:
 
