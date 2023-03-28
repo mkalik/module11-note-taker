@@ -29,7 +29,7 @@ const remove = (file, id) => {
             console.log('error');
         } else {
             var newData = JSON.parse(data);
-            for (x in newData) {
+            for (let x in newData) {
                 if (newData[x].id == id) {
                     newData.splice(x, 1);
                 }
